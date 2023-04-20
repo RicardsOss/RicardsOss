@@ -1,0 +1,181 @@
+* {
+    margin: 0px;
+    padding: 0px;
+  }
+ 
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  .image {
+    /* bildes platums */
+    width: 50px;
+  }
+  
+  .conteiner {
+    width: 100%;
+    height: 100vh;
+    background-color: aliceblue;
+  }
+  a {
+    text-decoration: none;
+  }
+  
+  .navigation {
+    width: 100%;
+    height: 7%;
+    background-color: rgb(255, 255, 255);
+  }
+  
+  .navigation_box {
+    width: 90%;
+    height: 100%;
+    margin: 0px auto;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .navigation_link {
+    background-color: black;
+    color: white;
+    padding: 8px 15px;
+    border-radius: 20px;
+  }
+  
+  /* ------------------------------------------------------ */
+  
+  .contener2 {
+    width: 100%;
+    height: 90vh;
+    background: linear-gradient(to right, #1c92d2, #f2fcfe);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 30px;
+  }
+  
+  .navigation2 {
+    height: 40vh;
+    width: 60%;
+    margin-right: 90px;
+  }
+  img {
+    height: 100%;
+    width: 100%;
+  }
+  
+  .nr1 {
+    text-align: center;
+    text-shadow: #1c92d2;
+    margin-top: 5%;
+  }
+  
+  /* ------------------------------------------------------- */
+  
+  .conteiner3 {
+    width: 100%;
+    height: 50vh;
+    background: linear-gradient(to right, #1c92d2, #f2fcfe);
+  }
+  
+  .navigation3 {
+    height: 80vh;
+    width: 100%;
+  }
+  img {
+    height: 100%;
+    width: 100%;
+  }
+  
+  /* ----------------------------------------------------------- */
+  
+  .head {
+    text-transform: uppercase;
+    color: #f2fcfe;
+    border-bottom: 2px solid white;
+    margin-bottom: 15px;
+    font-size: 40px;
+  }
+  
+  .text {
+    font-size: 18px;
+  }
+  
+  /* ...................................................... */
+  
+  .head2 {
+    text-transform: uppercase;
+    color: #f2fcfe;
+    border-bottom: 2px solid white;
+    margin-bottom: 15px;
+    font-size: 40px;
+    margin-bottom: 30px;
+  }
+  
+  /* ------------------------------------------------------ */
+  
+  .resize {
+    width: 380px;
+    height: auto;
+  }
+  
+  .resize {
+    width: 380px;
+    height: auto;
+  }
+  
+  /*------------------------------------------------------------ */
+  
+  .head2 {
+    color: #ffffff;
+    border-bottom: 2px solid white;
+    margin-bottom: 15px;
+    font-size: 40px;
+    font-size: 40px;
+    margin-bottom: 30px;
+    width: 60%;
+  }
+  
+  .text2 {
+    font-size: 18px;
+  }
+  
+  .kvadrats {
+    width: 239px;
+    height: 239px;
+  
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 55px;
+    background: #a8e2ff;
+    box-shadow: 18px 18px 35px #608191, -18px -18px 35px #f0ffff;
+  }
+  
+  .text5 {
+    width: 50%;
+  }
+  
+  .cont {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  
+  .logo_izmers {
+    width: 60px;
+    height: 60px;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
